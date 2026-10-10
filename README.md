@@ -21,7 +21,7 @@ Features:
 
 # Q-learning Route Finder
 
-Description: This is a worked example from the book _AI Crash Course_ by Hadelin De Ponteves. It was an eye-opening experience to me to see how Artificial Intelligence is applied in the real world. This example uses a matrix imported by numpy to simulate possible moves in a factory floor. The algorithm then navigates through the floorplan and finds the fastest way from a predetermined point to another. This is a 12-location map but can easily be expanded
+Description: This is a worked example from the book _AI Crash Course_ by Hadelin De Ponteves. It was an eye-opening experience to me to see how Artificial Intelligence is applied in the real world. This example uses a matrix imported by numpy to simulate possible moves in a factory floor. The algorithm then navigates through the floorplan and finds the fastest way from a predetermined point to another. This is a 12-location map but can easily be expanded.
 
 **Requires:** Python 3, NumPy
 
