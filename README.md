@@ -27,6 +27,14 @@ Description: This is a worked example from the book _AI Crash Course_ by Hadelin
 
 **To run:** `python route_finder.py`
 
+# Interactive Reaction Tester for Engineering Day Demonstration
+
+Description: I was tasked with making a presentation for our robotics and automation research lab for incoming students interested in engineering. I used this sketch to test the student's reaction time to an LED turning on. I used the internal clock of the Arduino to assign a random time before signaligh the LED to HIGH and then read the time it was on before receiving the input from a button. 
+
+**Hardware:** Arduino UNO, LED, Buttons
+
+**To Run:** upload 'Reaction_Tester.ino', open the Serial Monitor, and set it to 9600 baud. 
+
 # Task Tracker App 
 
 Description: After completing a few simpler GUI projects, I was fascinated by seeing my code get translated into a simple UI. Therefore, I wanted to build something practical and more complex. This task tracker allows users to input tasks and categorizes them into one of the three categories. It then keeps track of days until the task is due. This is my favorite software project I have done thus far due to how independent I was in the code using only minimal assistance with the JSON and Date Time portion. It is also something that I use from time to time.
