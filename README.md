@@ -13,7 +13,7 @@ Features:
 - Creates a dead zone to avoid stick drift
 - increases/decreases paddle speed based on joystick readings
 - balls angle and speed varies by where the paddle hits it and how many times
-- Keeps track of wins and losses based off of first to three misses loses. 
+- Keeps track of score and misses 
 
 **Hardware:** Arduino UNO, analog joystick module (Y axis on A1, button on pin 7)
 
